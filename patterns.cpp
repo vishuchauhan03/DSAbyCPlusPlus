@@ -109,4 +109,27 @@ int main(){
     //     cout<<endl;    
     // }
 
+    // Printing Numeric hollow inverted half pyramid
+
+    //  int n = 5;
+    //     int start;
+    //     for (int row = 0; row < n; row++) {
+    //         start = row + 1;
+    //         for (int col = 0; col < n - row; col++) {
+    //         if (row == 0 || row == n - 1) {
+    //             cout << start << " ";
+    //             start++;
+    //         } else {
+    //             if (col == 0 || col == n - row - 1) {
+    //             cout << start << " ";
+    //             start++;
+    //             } else {
+    //             cout << "  ";
+    //             start++;
+    //             }
+    //         }
+    //         }
+    //         cout << endl;
+    //     }
+
 }

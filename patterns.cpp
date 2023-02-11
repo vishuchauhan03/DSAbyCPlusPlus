@@ -109,6 +109,137 @@ int main(){
     //     cout<<endl;    
     // }
 
+       
+
+    // Printing full pyramid of N number of Rows
+
+    //  int n;
+    // cout<<"Enter Number of Rows \n";
+    // cin>>n;
+    // for (int row = 0; row < n; row++){
+    //     for (int col = 0; col < n-row-1; col++){
+    //          cout<<" ";
+    //     }
+    //     for (int col = 0; col < row+1; col++){
+    //          cout<<"* ";
+    //     }
+    //     cout<<endl;    
+    // }
+
+
+    // Printing inverted full pyramid of N number of Rows
+
+    //  int n;
+    // cout<<"Enter Number of Rows \n";
+    // cin>>n;
+    // for (int row = 0; row < n; row++){
+    //     for (int col = 0; col < row; col++){
+    //          cout<<" ";
+    //     }
+    //     for (int col = 0; col < n-row; col++){
+    //          cout<<"* ";
+    //     }
+    //     cout<<endl;    
+    // }
+
+    // Printing  solid diamond of N number of Rows
+
+        // Printing full pyramid of N number of Rows
+
+        //  int n;
+        // cout<<"Enter Number of Rows \n";
+        // cin>>n;
+
+        // for (int row = 0; row < n; row++){
+        //     for (int col = 0; col < n-row-1; col++){
+        //          cout<<" ";
+        //     }
+        //     for (int col = 0; col < row+1; col++){
+        //          cout<<"* ";
+        //     }
+        //     cout<<endl;    
+        // }
+
+
+        // Printing inverted full pyramid of N number of Rows
+
+        // for (int row = 0; row < n; row++){
+        //     for (int col = 0; col < row; col++){
+        //          cout<<" ";
+        //     }
+        //     for (int col = 0; col < n-row; col++){
+        //          cout<<"* ";
+        //     }
+        //     cout<<endl;    
+        // }
+
+    // Printing  hollow diamond of N number of Rows
+
+        // int n;
+        // cout<<"Enter Number of Rows \n";
+        // cin>>n;
+
+        // Printing hollow full pyramid of N number of Rows
+
+        // for (int row = 0; row < n; row++){
+        //     for (int col = 0; col < n-row-1; col++){
+        //         cout<<" ";
+        //     }
+        //     for (int col = 0; col < 2*row+1; col++){
+        //         if(col==0 || col ==2*row){
+        //         cout<<"*";
+        //         }else{
+        //             cout<<" ";
+        //         }
+        //     }
+        //     cout<<endl;    
+        // }
+
+
+        // Printing inverted hollow full pyramid of N number of Rows
+
+        // for (int row = 0; row < n; row++){
+        //     for (int col = 0; col < row; col++){
+        //          cout<<" ";
+        //     }
+        //     for (int col = 0; col < 2*(n-row)-1; col++){
+        //         if(col==0 || col ==2*(n-row-1)){
+        //         cout<<"*";
+        //         }else{
+        //             cout<<" ";
+        //         }
+        //     }
+        //     cout<<endl;    
+        // }
+
+       // Print Numeric Hollow Inverted Half Pyramid of N Number of Rows
+
+
+    //    cout<<"Enter The Number of Rows";
+    //    int n;
+    //    cin>>n;
+
+    //    for(int row=0; row<n ; row++){
+    //         if(row==0||row==n-1){
+
+    //             for(int col=row; col<n ; col++){
+    //                 cout<<col+1;
+    //             }
+    //         }else{
+    //             for(int col=row; col<n ; col++){
+    //                 if(col==row||col==n-1){
+
+    //                 cout<<col+1;
+    //                 }else{
+    //                     cout<<" ";
+    //                 }
+    //             }
+    //         }
+    //         cout<<endl;
+    //    }
+
+     
+    
     // Printing Numeric hollow inverted half pyramid
 
     //  int n = 5;

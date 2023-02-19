@@ -45,6 +45,16 @@ using namespace std;
     //     return ans;
     // }
 
+    // swapping two number
+
+    // void swap(int a,int b){
+    //     int x = a;
+    //     a=b;
+    //     b=x;
+    //     cout<<"a is"<<a<<endl;
+    //     cout<<"b is"<<b;
+    // }
+
 int main(){
     // int number ;
     // cout<<"enter the number"<<endl;
@@ -56,4 +66,5 @@ int main(){
     // int a=(2,6);
     // cout<<a;
     // return 0;
+    // swap(2,6);
 }
